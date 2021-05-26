@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-quarkus:dev</actionName>
+            <displayName>quarkus:dev</displayName>
+            <goals>
+                <goal>quarkus:dev</goal>
+            </goals>
+        </action>
+    </actions>
